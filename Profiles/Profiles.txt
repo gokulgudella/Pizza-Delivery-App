@@ -1,1 +1,25 @@
+Name of the Student : GUDELLA GOKUL
+Learning Track : SALESFORCE ADMINISTRATION
+project Name :Pizza Delivery App
+Trailhead profile : https://www.salesforce.com/trailblazer/gokulgudella
+Developer org username : g.gokul@gdcproject.com
+Developer org password : 
+position : Team lead
 
+
+Name of the Student : CHAVANA NEERAJ KUMAR
+Learning Track : SALESFORCE ADMINISTRATION
+project Name :Pizza Delivery App
+Trailhead profile :https://www.salesforce.com/trailblazer/neerajkumarchavana 
+Developer org username : 
+Developer org password : 
+position : Team Members
+
+
+Name of the Student : NANDIBOYINI KIRAN KUMAR
+Learning Track : SALESFORCE ADMINISTRATION
+project Name :Pizza Delivery App
+Trailhead profile : 
+Developer org username : 
+Developer org password : 
+position : Team Members

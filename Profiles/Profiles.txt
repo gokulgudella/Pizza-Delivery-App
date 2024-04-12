@@ -3,7 +3,7 @@ Learning Track : SALESFORCE ADMINISTRATION
 project Name :Pizza Delivery App
 Trailhead profile : https://www.salesforce.com/trailblazer/gokulgudella
 Developer org username : g.gokul@gdcproject.com
-Developer org password : 
+Developer org password : Gayatri@123
 position : Team lead
 
 
@@ -16,10 +16,10 @@ Developer org password :
 position : Team Members
 
 
-Name of the Student : NANDIBOYINI KIRAN KUMAR
+Name of the Student : EKAMBARAM GANESH REDDY
 Learning Track : SALESFORCE ADMINISTRATION
 project Name :Pizza Delivery App
-Trailhead profile : 
-Developer org username : 
-Developer org password : 
+Trailhead profile : https://www.salesforce.com/trailblazer/ganeshreddyekambaram
+Developer org username :gr0977677@gdcproject.com 
+Developer org password : Gayatri@123
 position : Team Members

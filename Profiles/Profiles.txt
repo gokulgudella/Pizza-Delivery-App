@@ -12,7 +12,7 @@ Learning Track : SALESFORCE ADMINISTRATION
 project Name :Pizza Delivery App
 Trailhead profile :https://www.salesforce.com/trailblazer/neerajkumarchavana 
 Developer org username :neerajchavana@gdcproject.com
-Developer org password :Gayatri@123
+Developer org password :Gayatri@1234
 position : Team Members
 
 
